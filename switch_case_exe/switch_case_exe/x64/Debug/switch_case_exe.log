@@ -1,0 +1,3 @@
+﻿  switch_case_exe.c
+C:\Users\achiy\source\repos\switch_case_exe\switch_case_exe\switch_case_exe.c(27,13): warning C4013: 'getch' undefined; assuming extern returning int
+  switch_case_exe.vcxproj -> C:\Users\achiy\source\repos\switch_case_exe\x64\Debug\switch_case_exe.exe
